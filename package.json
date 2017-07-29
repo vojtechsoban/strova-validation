@@ -1,0 +1,19 @@
+{
+  "name": "strova-validation",
+  "version": "1.0.0",
+  "description": "Validation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojtechsoban/strova-validation.git"
+  },
+  "author": "Vojtěch Šobáň <vojtech.soban@gmail.com> (https://github.com/vojtechsoban)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vojtechsoban/strova-validation/issues"
+  },
+  "homepage": "https://github.com/vojtechsoban/strova-validation#readme"
+}
