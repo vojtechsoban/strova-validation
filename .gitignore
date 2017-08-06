@@ -1,8 +1,13 @@
 # IDEs
 .idea
+*.iml
+
+#!src
 
 # dist
-dist
+index.js
+types.js
+
 
 # Logs
 logs
