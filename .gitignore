@@ -2,12 +2,9 @@
 .idea
 *.iml
 
-#!src
-
 # dist
-index.js
-types.js
-
+/index.js
+/types.js
 
 # Logs
 logs
