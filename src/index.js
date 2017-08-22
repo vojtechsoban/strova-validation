@@ -7,7 +7,7 @@ export const isBlank = arg => typeof arg !== 'string' || arg.trim().length === 0
 export const notBlank = arg => !isBlank(arg);
 
 export const isEmpty = arg => {
-  if (!notNull(arg)) {
+  if (isNull(arg)) {
     return true;
   } else if (typeof arg === 'string' && arg.length === 0) {
     return true;
